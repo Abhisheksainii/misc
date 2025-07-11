@@ -1,3 +1,4 @@
-.bmpui-seekbar {
-    display: none !important;
+.bmpui-ui-controlbar .bmpui-ui-scrubber,
+.bmpui-ui-controlbar .bmpui-ui-timeline {
+  display: none !important;
 }
